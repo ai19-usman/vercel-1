@@ -1,4 +1,5 @@
 import react from 'react'
+import Image from 'next/image';  // Import Image component
 
 const page = () => {
   return (
@@ -29,4 +30,4 @@ const page = () => {
   
   );
 }
-export default page
+export default page;
